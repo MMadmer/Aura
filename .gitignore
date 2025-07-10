@@ -4,6 +4,8 @@
 # Rider solution
 .idea/
 
+LocalDerivedDataCache/
+
 # Compiled Object files
 *.slo
 *.lo
